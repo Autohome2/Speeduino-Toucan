@@ -1,5 +1,6 @@
 # Speeduino-Toucan
-'Speeduino 2Can aka "Toucan" Canbus interface.' 
+Speeduino 2Can aka "Toucan" Canbus interface. 
+
 This firmware is based upon my GPIO std and Beetle firmware.
 
 It was designed to be used in conjunction with the PCB from DIY-EFI.co.uk , the 2can aka "Toucan"
