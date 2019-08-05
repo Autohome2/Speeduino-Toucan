@@ -1,5 +1,5 @@
 # Speeduino-Toucan
-Speeduino 2Can aka "Toucan" Canbus interface. 
+##Speeduino 2Can aka "Toucan" Canbus interface. 
 
 This firmware is based upon my GPIO std and Beetle firmware.
 
@@ -7,9 +7,8 @@ It was designed to be used in conjunction with the PCB from DIY-EFI.co.uk , the 
 
 This has 2 Canbus interfaces 
 
-   Can0 is used for broadcast and other general used
-
-   Can1 is for OBD2 style interface. This allows the data to be used by any std code reader.
+   * Can0 is used for broadcast and other general used
+   * Can1 is for OBD2 style interface. This allows the data to be used by any std code reader.
 
 The interface connects to Speeduino via Serial3(on the mega2560 based version)
 
